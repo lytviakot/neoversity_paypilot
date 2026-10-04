@@ -1,0 +1,8 @@
+1. Role and tone. + but not enough details. sounds more like a recomendation for human collegue rather that AI bot.
+2. Scope. + but NO restrictions.
+3. Sources of truth. +
+4. Tool rules. +
+5. Domain constraints. + but questions about documentation, calling human experts, etc.
+6. Edge cases. -
+7. Output format. + but not enough details for different output, current is good for only few simple outputs (get account balance, for example)
+8. -
